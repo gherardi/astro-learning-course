@@ -1,0 +1,19 @@
+{
+  "name": "astro-personal-site",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.4.1",
+    "astro": "^4.1.2",
+    "astro-tunnel": "^0.1.2",
+    "title-case": "^4.3.1",
+    "typescript": "^5.3.3"
+  }
+}
